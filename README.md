@@ -26,11 +26,11 @@ Adding "NaN" to all Thomas High School 9th grade math and reading scores did not
 
 *Original Summary*
 
-![This is an image](PNG Files/School_District_Summary_Original.png)
+![Original Summary](PNG Files/School_District_Summary_Original.png)
 
 *Updated Summary*
 
-![This is an image](PNG Files/School_District_Summary_Updated.png)
+![Updated Summary](PNG Files/School_District_Summary_Updated.png)
 
 ### School District Summary
 ### Reading and Math Scores
