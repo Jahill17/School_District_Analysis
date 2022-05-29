@@ -29,31 +29,59 @@ Adding "NaN" to all Thomas High School 9th grade math and reading scores did not
 *Original Summary*
 
 ![Original Summary](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_District_Summary_Original.png)
+
 *Updated Summary*
 
 ![Updated Summary](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_District_Summary_Updated.png)
 
 ### School Size Summary
+Thomas high school is considered to be in the medium school size category of 1000-2000 students.  Replacing the 9th grade scores minimally effected the overall percent passing reading percentage; the percent passing dropped from 97% to 96%.  All other categories (average math score, average reading score, percent passsing math, overall passing) remained uneffected.
+
+*Original Summary*
+
 ![Original School Size](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_Size_Summary_Original.png)
+
+*Updated Summary*
 
 ![Updated School Size](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_Size_Summary_Updated.png)
 
 ### School Type Summary
+Thomas high school is a charter school therefore would have no effect on the district schools.  The only category that changed as a result of replacing the 9th grade scores was the percent passing reading; the percentage dropped from 97% to 96%.
+
+*Original Summary*
+
 ![Original School Type](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_Type_Summary_Original.png)
+
+*Updated Summary*
 
 ![Updated School Type](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/School_Type_Summary_Updated.png)
 
 ### Spending Summary
+Thomas high shcool has a $638 average spent towards each student so falls in the spending range of $631-$645 per student.  All other spending range categories would be unaffected by replacing the 9th grade scores. The only category effected was the percent passing reading which dropped from 84% to 83%.
+
+*Original Summary*
+
 ![Original School Spending](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Spending_Summary_Original.png)
+
+*Updated Summary*
 
 ![Updated School Spending](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Spending_Summary_Updated.png)
 
 ### Top 5 and Bottom 5 Summary
+
+*Original Top 5 Summary*
+
 ![Original Top 5](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Top5_Schools_Original.png)
+
+*Updated Top 5 Summary*
 
 ![Updated Top 5](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Top5_Schools_Updated.png)
 
+*Original Bottom 5 Summary*
+
 ![Original Bottom 5](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Bottom5_Schools_Original.png)
+
+*Updated Bottom 5 Summary*
 
 ![Updated Bottom 5](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Bottom5_Schools_Updated.png)
 
