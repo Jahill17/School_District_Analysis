@@ -25,10 +25,10 @@ Adding "NaN" to all Thomas High School 9th grade math and reading scores did not
 - Percent Overall Passing: Remained approximately the same
 
 *Original Summary*
-![This is an image](PNG Files/School_District_Summary_Original.png)
+![This is an image]([PNG Files/School_District_Summary_Original.png](https://github.com/Jahill17/School_District_Analysis/blob/015408edf837feca9eeb24169ab1891617fb7387/PNG%20Files/School_District_Summary_Original.png)
 
 *Updated Summary*
-![This is an image](PNG Files/School_District_Summary_Updated.png)
+![This is an image]([PNG Files/School_District_Summary_Updated.png](https://github.com/Jahill17/School_District_Analysis/blob/015408edf837feca9eeb24169ab1891617fb7387/PNG%20Files/School_District_Summary_Updated.png)
 
 ### School District Summary
 ### Reading and Math Scores
