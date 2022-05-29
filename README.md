@@ -5,9 +5,13 @@ The school board believes reading and math grades for Thomas High School ninth g
 
 ## Resources
 [Clean Student Data](Resources/clean_students_complete.csv)
+
 [Missing Grades](Resources/missing_grades.csv)
+
 [Schools Listing](Resources/schools_complete.csv)
+
 [Student Complete data](Resources/students_complete.csv)
+
 [School District Analysis Starter Code](PyCitySchools_Challenge_starter_code.ipynb)
 
 ## Analysis
