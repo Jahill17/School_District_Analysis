@@ -68,6 +68,7 @@ Thomas high shcool has a $638 average spent towards each student so falls in the
 ![Updated School Spending](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Spending_Summary_Updated.png)
 
 ### Top 5 and Bottom 5 Summary
+The order of the top 5 and bottom 5 schools remained unchanged after replacing the Thomas High School 9th grade scores.  Thomas High School remained at 2nd; their overall percent passing dropped from 90.9% to 90.6%.
 
 *Original Top 5 Summary*
 
@@ -86,10 +87,20 @@ Thomas high shcool has a $638 average spent towards each student so falls in the
 ![Updated Bottom 5](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Bottom5_Schools_Updated.png)
 
 ### Reading and Math Scores
+Thomas High Schools updated reading and math scores summary now shows a "nan" as a result of replacing the schools 9th grade scores due to the potential academic dishonesty of some students.
+
+*Original Reading Scores Summary*
+
 ![Original Reading Scores](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Reading_Scores_Original.png)
+
+*Updated Reading Scores Summary*
 
 ![Updated Reading Scrores](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Reading_Scores_Updated.png)
 
+*Original Math Scores Summary*
+
 ![Original Math Scores](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Math_Scores_Original.png)
+
+*Updated Math Scores Summary*
 
 ![Updated Math Scrores](https://github.com/Jahill17/School_District_Analysis/blob/main/PNG%20Files/Bottom5_Schools_Updated.png)
